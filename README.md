@@ -1,3 +1,8 @@
-# dynamicFont
-## 动态字体跟随系统设置改变
-- [] 待修复,storyboard添加kb_weight参数
+## dynamicFont
+
+设置动态字体跟随系统设置改变
+
+## Features
+
+- [ ] storyboard添加weight属性
+- [x] 支持button
